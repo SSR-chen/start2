@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+
+Game_SIZE=(1280,600)
+PATH_BACK='pic/other/back.png'
+PATH_LOSE='pic/other/lose.png'
+LEFT_TOP=(200,65)
+GRID_SIZE=(76,96)
+GRID_COUNT=(9,5)
+
+SUNFLOWER_ID=3
+PEANSHOOTER_ID=4
+ZOMBIE_BORN_x=14
+ZOMBIE_BORN_CD=5
